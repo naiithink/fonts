@@ -1,4 +1,6 @@
 proprietary/
+proprietary.*
+!proprietary.tar.gpg
 
 # macOS
 # General
